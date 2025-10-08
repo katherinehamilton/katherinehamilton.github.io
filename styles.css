@@ -8,13 +8,14 @@
 
 body { 
   font-family: Raleway;
-  background-color: #F3F8FD
+  background-color: #F3F8FD;
   margin: 0;
   padding: 0;
 }
 
 h1, h2, h3 {
-  color: #020262
+  color: #020262;
+  margin: auto;
 }
 
 p {
