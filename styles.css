@@ -18,3 +18,7 @@ h1, h2, h3 {
   background-color: #e2edf8;
   margin: auto;
 }
+
+hr.solid {
+  border-top: 3px solid #bbb;
+}
