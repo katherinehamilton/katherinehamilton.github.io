@@ -1,3 +1,10 @@
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body { 
   font-family: Raleway;
   margin: 0;
