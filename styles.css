@@ -18,6 +18,7 @@ h1, h2, h3 {
   background-color: #e2edf8;
   margin: auto;
   text-align: center;
+  padding: 10;
 }
 
 hr.solid {
