@@ -8,7 +8,7 @@
 
 body { 
   font-family: Raleway;
-  background-color: #F3F8FD;
+  background-color: #f3f8fd;
   margin: 0;
   padding: 0;
 }
@@ -16,8 +16,4 @@ body {
 h1, h2, h3 {
   color: #020262;
   margin: auto;
-}
-
-p {
-  color: #111
 }
